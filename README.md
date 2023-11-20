@@ -1,3 +1,5 @@
+<h1>Spotify Clone</h1>
+
 1️⃣ Key Features:
 Sleek User Interface: Experience a polished and user-friendly design reminiscent of the beloved Spotify app.
 Music Streaming: Enjoy your favorite tracks, albums, and playlists just like on the official Spotify platform.
